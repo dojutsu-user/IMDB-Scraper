@@ -1,7 +1,5 @@
 # IMDB Scraper
 
-[![HitCount](http://hits.dwyl.io/dojutsu-user/IMDB-Scraper.svg?style=for-the-badge)](http://hits.dwyl.io/dojutsu-user/IMDB-Scraper)
-
 ![](https://img.shields.io/github/license/dojutsu-user/IMDB-Scraper.svg?style=for-the-badge)
 [![GitHub contributors](https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg?style=for-the-badge)](https://GitHub.com/dojutsu-user/IMDB-Scraper/graphs/contributors/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](https://github.com/dojutsu-user/IMDB-Scraper/pulls)
